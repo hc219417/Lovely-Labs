@@ -1,0 +1,56 @@
+Script started on 2022-03-29 16:39:41-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="149" LINES="10"]
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab10[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab10[00m$ exit./a.out
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+1
+Please enter the thickness: 1
+Please enter the cost per cubic unit: 2
+Please enter the radius: 3
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+2
+Please enter the thickness: 1
+Please enter the cost per cubic unit: 2
+Please enter the length: 3
+Please enter the width: 4
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+3
+Please enter the thickness: 1
+Please enter the cost per cubic unit: 2
+Please enter the length of base 1: 3
+Please enter the length of base 2: 4
+Please enter the height: 5
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+2
+Please enter the thickness: 6
+Please enter the cost per cubic unit: 7
+Please enter the length: 8
+Please enter the width: 9
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+1
+Please enter the thickness: 1
+Please enter the cost per cubic unit: 1
+Please enter the radius: 1
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+4
+The total cost of this box of blocks is $3142.69
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab10[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab10[00m$ exit
+exit
+
+Script done on 2022-03-29 16:40:05-04:00 [COMMAND_EXIT_CODE="0"]

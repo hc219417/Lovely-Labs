@@ -1,0 +1,13 @@
+Script started on 2022-04-12 11:00:01-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="149" LINES="10"]
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab12[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab12[00m$ exit./a.out
+Please input an int decimal number: 30
+This number in base 2 is: 11110
+This number in base 3 is: 1010
+This number in base 7 is: 42
+Enter a string: go bobcats
+Enter two numbers that are within the bounds of the string: 3 7
+This is how your string looks now: go acbobts
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab12[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab12[00m$ exit
+exit
+
+Script done on 2022-04-12 11:00:11-04:00 [COMMAND_EXIT_CODE="0"]

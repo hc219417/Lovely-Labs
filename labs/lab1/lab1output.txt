@@ -1,0 +1,10 @@
+Enter first time: 11 24
+The time you entered is 11:24
+Enter second time: 2 22
+The time you entered is 2:22
+Enter scalar value: 6
+Addition: 13 hour(s), 46 minute(s)
+Subtraction: 9 hour(s), 2 minute(s)
+Multiplication: 68 hour(s), 24 minute(s)
+Division: 1 hour(s), 54 minute(s)
+11:24 and 2:22 are NOT equal

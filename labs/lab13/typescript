@@ -1,0 +1,14 @@
+Script started on 2022-04-18 10:59:45-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="149" LINES="11"]
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[00m$ exit./a.outg++ -g *.cc
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[00m$ g++ -g *.cc[7Pexit./a.out
+Please enter a name: Matthew
+Your search name appears 7 times.
+There are 51 non-unique names following your search name.
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[00m$ ./a.out
+Please enter a name: Jessica
+Your search name appears 1 times.
+There are 90 non-unique names following your search name.
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab13[00m$ exit
+exit
+
+Script done on 2022-04-18 11:00:00-04:00 [COMMAND_EXIT_CODE="0"]

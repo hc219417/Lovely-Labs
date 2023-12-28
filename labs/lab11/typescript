@@ -1,0 +1,45 @@
+Script started on 2022-04-07 09:57:46-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="149" LINES="10"]
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab11[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab11[00m$ ./a.outg++ -g *.cc[4P./a.out
+Enter a number: 23
+The even numbers counting up to there:
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+Enter a number: 18
+The even numbers counting up to there:
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+Enter a number: -2
+The even numbers counting up to there:
+Enter a number between 1 and 30 to see the stars: 5
+*
+**
+***
+****
+*****
+*****
+****
+***
+**
+*
+]0;hc219417@property-of-hanban: /mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab11[01;32mhc219417@property-of-hanban[00m:[01;34m/mnt/c/Users/hanna/OneDrive/Desktop/CS2401/labs/lab11[00m$ exit
+exit
+
+Script done on 2022-04-07 09:58:00-04:00 [COMMAND_EXIT_CODE="0"]
